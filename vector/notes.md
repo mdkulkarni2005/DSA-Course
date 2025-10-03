@@ -16,3 +16,13 @@ vector<int> vec(3, 0)
 
 in the vector we have speciall type of loop called as "forEach loop"
 
+vector functions
+
+1. size
+2. push_back
+3. pop_back
+4. front
+5. back
+6. at
+
+Staic vs Dynamic allocation
